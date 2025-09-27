@@ -81,3 +81,12 @@ Aston Martian
     arm -> Arm Holding PLC - ADR (ARM)
     
 }
+
+Sauber{ 
+    Mitsubishi Electric -> Mitsubishi Electric Corp (6503)  
+    Walter Meier -> Meier Tobler Group AG (MTG) 
+    Sunoco -> Sunoco LP (SUN) 
+    Hewlett Packard Enterprise-> Hewlett Packard Enterprise Co (HPE) 
+    Edelweiss -> Edelweiss Financial Services Ltd (EDELWEISS)
+
+}
