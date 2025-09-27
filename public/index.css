@@ -1,0 +1,57 @@
+html{
+    margin:0px;
+    border: 0px;
+    background-color: #15151e;
+}
+.MainBar{
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    padding: 1.5rem 2rem;
+    background-color: #21178C; /* off-white */
+    border-radius: 9999px;
+    border: 2px solid #222;
+
+    position: relative;
+    z-index: 10;
+
+    width: 100%;
+    box-sizing: border-box;
+
+}
+.bodyBar{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    gap: 20px;
+    background-color: #21178C;
+    width: 100%;
+    height: fit-content;
+    border-radius: 20px;
+    border: 2px solid #222;
+    box-sizing: border-box;
+
+    padding: 10px 24px;
+}
+.Team{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-content: center;
+    gap: 20px;
+    background-color: rgb(203, 56, 56);
+    height: fit-content;
+    border-radius: 20px;
+    border: 2px solid #222;
+    box-sizing: border-box;
+    padding: 10px 24px;
+
+    width: 400px;
+    height: 200px;
+}
+
