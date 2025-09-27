@@ -42,9 +42,6 @@ const haas =['Travis Mathew -> Topgolf Callaway Brands Corp.',
     'Mphasis -> Mphasis Ltd' ]
 const haascodes=[(MODG),(MGM),(7203),(COMM),(MPHASIS)]
 
-
-
-
 const mclaren =[]
 const mclarencode =[]
 
