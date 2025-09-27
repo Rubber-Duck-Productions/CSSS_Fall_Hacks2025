@@ -35,8 +35,15 @@ const sauber=['Mitsubishi Electric -> Mitsubishi Electric Corp','Walter Meier ->
 const alpinecodes=[]
 const alpine=[]
 
-const haascodes =[]
-const haas=[]
+const haas =['Travis Mathew -> Topgolf Callaway Brands Corp.', 
+    'MGM Rewards -> MGM Resorts International',
+    'Toyota Gazoo Racing -> Toyota Motor Corp',
+    'CommScope -> Commscope Holding Company Inc ',
+    'Mphasis -> Mphasis Ltd' ]
+const haascodes=[(MODG),(MGM),(7203),(COMM),(MPHASIS)]
+
+
+
 
 const mclaren =[]
 const mclarencode =[]
