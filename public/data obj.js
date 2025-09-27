@@ -28,8 +28,9 @@ const williams=['Betway-> Super Group','Atlassian-> Atlassian Corporatio','Durac
 const rbcodes=[]
 const rb=[]
 
-const saubercodes= []
-const sauber=[]
+const saubercodes= [(6503),(MTG),(SUN),(HPE),(EDELWEISS)]
+const sauber=['Mitsubishi Electric -> Mitsubishi Electric Corp','Walter Meier -> Meier Tobler Group AG',' Sunoco -> Sunoco LP',
+    'Hewlett Packard Enterprise-> Hewlett Packard Enterprise Co' ,'Edelweiss -> Edelweiss Financial Services Ltd']
 
 const alpinecodes=[]
 const alpine=[]
@@ -100,4 +101,6 @@ const ferrs = [
   'Philip Morris International -> Philip Morris International Inc.',
   'Celsius -> Celsius Holdings Inc.'
 ]
+
+
 
