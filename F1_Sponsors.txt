@@ -90,3 +90,11 @@ Sauber{
     Edelweiss -> Edelweiss Financial Services Ltd (EDELWEISS)
 
 }
+
+Haas{
+    Travis Mathew -> Topgolf Callaway Brands Corp. (MODG)
+    MGM Rewards -> MGM Resorts International (MGM)
+    Toyota Gazoo Racing -> Toyota Motor Corp (7203)
+    CommScope -> Commscope Holding Company Inc (COMM)
+    Mphasis -> Mphasis Ltd (MPHASIS)
+}
