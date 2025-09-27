@@ -1,28 +1,16 @@
 Mercedes
 {
-    Petronas
-    Ineos
-    CrowdStrike
-    TeamViewer, 
-    UBS, 
-    Snapdragon, 
-    G42, 
-    Akkodis, 
-    IWC Schaffhausen, 
-    Hewlett Packard Enterprise, 
-    Solera, 
-    Nuvei, 
-    Einhell, 
-    AMD, 
-    The Ritz Carlton, 
-    Sherwin Williams, 
-    Endless, Pirelli, 
-    SAP, 
-    WhatsApp, 
-    Luminar, 
-    BetterUp, 
-    adidas, 
-    signify, 
-    Mous
-
+    Petronas : Petronas Gas Berhad (6033.KL)
+    CrowdStrike : CrowdStrike Holdings, Inc. (CRWD) 
+    TeamViewer: TeamViewer SE (TMV) 
+    UBS: UBS Group AG (UBS)
+    Snapdragon: QUALCOMM Incorporated (QCOM)
+    IWC Schaffhausen : Compagnie Financiere Richemont SA (CFR.SW)
+    Hewlett Packard Enterprise : HPE 
+    AMD : Advanced Micro Devices (AMD)
+    The Ritz Carlton : Marriot International, Inc (MAR)
+    Sherwin Williams : The Sherwin - Williams (SHW)
+    SAP : SAP (SAP SE)
+    WhatsApp : Meta Platforms (META)
+    Luminar : Luminar Technologies, Inc. (LAZR)
 }
