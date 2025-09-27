@@ -31,6 +31,8 @@ window.onclick = function (event)
     }
 }
 
+fetchData();
+
 async function fetchData() {
 
   try{
