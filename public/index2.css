@@ -1,0 +1,162 @@
+html{
+    margin:0px;
+    border: 0px;
+    background-color: #15151e;
+}
+.MainBar{
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    padding: 1.5rem 2rem;
+    background-image: linear-gradient(to top right, black, red);
+    border-radius: 9999px;
+    border: 2px solid #222;
+
+    position: relative;
+    z-index: 10;
+
+    width: 100%;
+    box-sizing: border-box;
+
+}
+.bodyBar{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    gap: 20px;
+    background-color: #21178C;
+    width: 100%;
+    height: fit-content;
+    border-radius: 20px;
+    border: 2px solid #222;
+    box-sizing: border-box;
+
+    padding: 10px 24px;
+}
+.Team{
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    background-color: rgb(203, 56, 56);
+    height: fit-content;
+    border-radius: 20px;
+    border: 2px solid #222;
+    box-sizing: border-box;
+    padding: 15px 20px;
+    width: 45%;
+    min-height: 200px;
+    transition: all 0.3s ease;
+    cursor: pointer;
+    overflow: hidden;
+}
+
+.Team:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.3);
+    background-color: rgb(220, 70, 70);
+}
+
+.team-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+.team-header h3 {
+    color: white;
+    margin: 0;
+    font-size: 1.2em;
+    font-weight: bold;
+}
+
+.dropdown-arrow {
+    color: white;
+    font-size: 0.8em;
+    transition: transform 0.3s ease;
+}
+
+.Team:hover .dropdown-arrow {
+    transform: rotate(180deg);
+}
+
+.sponsors-dropdown {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    right: 0;
+    background-color: rgba(0, 0, 0, 0.95);
+    border-radius: 0 0 20px 20px;
+    border: 2px solid #222;
+    border-top: none;
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.3s ease;
+    z-index: 100;
+}
+
+.Team:hover .sponsors-dropdown {
+    max-height: 400px;
+}
+
+.sponsors-list {
+    padding: 15px;
+    max-height: 350px;
+    overflow-y: auto;
+}
+
+.sponsor-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 8px 0;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+    color: white;
+    font-size: 0.9em;
+}
+
+.sponsor-item:last-child {
+    border-bottom: none;
+}
+
+.sponsor-name {
+    flex: 1;
+    color: #fff;
+}
+
+.stock-symbol {
+    background-color: #4CAF50;
+    color: white;
+    padding: 2px 8px;
+    border-radius: 12px;
+    font-size: 0.8em;
+    font-weight: bold;
+    margin-left: 10px;
+}
+
+/* Custom scrollbar for sponsors list */
+.sponsors-list::-webkit-scrollbar {
+    width: 6px;
+}
+
+.sponsors-list::-webkit-scrollbar-track {
+    background: rgba(255, 255, 255, 0.1);
+    border-radius: 3px;
+}
+
+.sponsors-list::-webkit-scrollbar-thumb {
+    background: rgba(255, 255, 255, 0.3);
+    border-radius: 3px;
+}
+
+.sponsors-list::-webkit-scrollbar-thumb:hover {
+    background: rgba(255, 255, 255, 0.5);
+}
+
