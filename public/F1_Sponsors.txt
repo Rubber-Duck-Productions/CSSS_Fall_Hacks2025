@@ -20,7 +20,6 @@ Redbull{
     TAG Heuer ->,
     Visa ->,
     YETI ->,
-
     Ansys ->,
     Arctic Wolf ->,
     AT&T -> T,
@@ -34,9 +33,7 @@ Redbull{
     Siemens ->,
     Sparco ->,
     Zoom ->,
-
 }
-
 
 Williams
 {
@@ -61,6 +58,87 @@ Williams
     Duracell->,
 
 }
+
+Ferrari{
+    hp-> 
+    shell->
+    Uni-credit -> 
+    puma -> 
+    VGW -> 
+    Ray-Ban-> ,
+    AWS, -> 
+    Richard Mille, -> 
+    Ceva Logistics, -> 
+    OMR Automotive, -> 
+    MAHLE, -> 
+    Pirelli, -> 
+    Bell,-> 
+    SKF, -> 
+    Vistajet-> ,
+     NGK Spark Plugs,->  
+     Brembo, Riedel, -> 
+     Iveco, -> 
+     ManPower Group, -> 
+     Technogym, -> 
+     Garrett, -> 
+     Giorgio Armani, -> 
+     Sabelt, -> 
+     Genesys, -> 
+     Bitdefender, 
+     HCL Software, 
+     ZCG, 
+     Bang Olufsen, 
+     Ecopol, 
+     Ohlins, 
+     DXC Technology, 
+     Peroni, 
+     Philip Morris International, 
+     Celsius,
+     ambipar, 
+     Chivas Regal,
+    Espacto,
+     Vantage,
+}
+
+Aston Martian{
+
+    Cognizant, 
+    Aramco, 
+    SentinelOne, 
+    Citi, 
+    JCB, 
+    NetApp, 
+    Boss, 
+    Girard Perregaux, 
+    Bombardier, 
+    Pirelli, 
+    Tik Tok, 
+    Ogio, 
+    Oakley,
+     Stilo, 
+     Velocity Black, 
+     Valvoline,
+    NexGEN,
+     Banco Master, 
+     servicenow, 
+     Regent Sea Cruises, 
+     WolfGang Puck, 
+     Financial Times,
+     OMP, 
+     stichd, 
+     Maaden, 
+     Glenfiddich, 
+     coinbase, 
+     pepperstone, 
+     Circle, 
+     xerox, 
+     arm, 
+     Atlas Air,
+     Elemis London,
+    Puma
+
+}
+
 
 
 
