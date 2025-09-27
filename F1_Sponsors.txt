@@ -1,0 +1,28 @@
+Mercedes
+{
+    Petronas
+    Ineos
+    CrowdStrike
+    TeamViewer, 
+    UBS, 
+    Snapdragon, 
+    G42, 
+    Akkodis, 
+    IWC Schaffhausen, 
+    Hewlett Packard Enterprise, 
+    Solera, 
+    Nuvei, 
+    Einhell, 
+    AMD, 
+    The Ritz Carlton, 
+    Sherwin Williams, 
+    Endless, Pirelli, 
+    SAP, 
+    WhatsApp, 
+    Luminar, 
+    BetterUp, 
+    adidas, 
+    signify, 
+    Mous
+
+}
