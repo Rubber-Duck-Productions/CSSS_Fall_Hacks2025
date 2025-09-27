@@ -40,3 +40,100 @@ Williams
     Komatsu -> Komatsu Ltd. (KMTUY)
     My Protein -> THG Plc (THG.L)
 }
+
+Ferrari
+{
+    hp-> HP Inc (HPQ)
+    shell-> Shell Plc (SHEL)
+    Uni-credit -> UniCredit S.p.A (UCG.MI)
+    Ray-Ban-> EssilorLuxottica SA (ELP.XD)
+    AWS -> Amazon.com, Inc. (AMZN)
+    MAHLE, -> MAHLE Metal Leve S.A. (LEVE3.SA) 
+    Bell,-> BCE Inc. (BCE)
+    SKF, -> AB SKF (SKF-B.ST) 
+     NGK Spark Plugs,-> Niterra Co., Ltd. (5334.T)  
+     Iveco, -> Iveco Group N.V. (IVCGF)
+     ManPower Group, -> Manpower Group Inc. (MAN)
+     Technogym, -> Technogym SpA (TN2.MU)
+     Garrett, -> Garrett Motion Inc. (GTX) 
+     Genesys, -> GENESYS International Corporation Limited (GENESYS.BO)
+     HCL Software -> HCL Infosystems Limited (HCL-INSYS.BO)
+     DXC Technology -> DXC Technology Co (DXC)
+     Peroni -> Molson coors Beverage Co Class B (TAP)
+     Philip Morris International -> Philip Morris International (PM) 
+     Celsius -> Celsius Holdings Inc (CELH)
+}
+
+Aston Martian
+{
+    Cognizant -> Cognizant Technology Solutions Corp (CTSH)
+    Aramco -> Saudi Arabian Oil Co (2222.SR)
+    SentinelOne -> SentinelOne Inc (S)
+    Citi -> Citigroup Inc (C)
+    NetApp -> NetApp Inc (NTAP)
+    Bombardier -> Bombardier Inc Class B (BBD.B) 
+    Valvoline -> Valvoline Inc (VVV)
+    Regent Sea Cruises -> Norwegian Cruise Line Holdings Ltd. (NCLH)
+    Maaden -> Saudi Arabian Mining Company SJSC (1211)
+    coinbase -> Coinbase Global Inc (COIN)
+    Circle -> Circle Internet Group (CRCL)
+    xerox -> Xerox Holdings Corp (XRX) 
+    arm -> Arm Holding PLC - ADR (ARM)
+    
+}
+
+Sauber{ 
+    Mitsubishi Electric -> Mitsubishi Electric Corp (6503)  
+    Walter Meier -> Meier Tobler Group AG (MTG) 
+    Sunoco -> Sunoco LP (SUN) 
+    Hewlett Packard Enterprise-> Hewlett Packard Enterprise Co (HPE) 
+    Edelweiss -> Edelweiss Financial Services Ltd (EDELWEISS)
+
+}
+
+Haas{
+    Travis Mathew -> Topgolf Callaway Brands Corp. (MODG)
+    MGM Rewards -> MGM Resorts International (MGM)
+    Toyota Gazoo Racing -> Toyota Motor Corp (7203)
+    CommScope -> Commscope Holding Company Inc (COMM)
+    Mphasis -> Mphasis Ltd (MPHASIS)
+}
+
+
+Racing Bulls
+{
+    Honda → HMC (NYSE ADR) / 7267.T (Tokyo Stock Exchange).
+    Randstad → RAND.AS (Euronext Amsterdam).
+    Pirelli → PIRC.MI (Borsa Italiana, Milan).
+    Siemens → SIE.DE (XETRA, Frankfurt).
+    Visa → V (NYSE).
+    Dynatrace → DT (NYSE).
+}
+
+Mclaren
+{
+    British American Tobacco (A Better Tomorrow) → BATS.L (LSE), BTI (NYSE ADR).
+    Splunk → Cisco (CSCO)
+    Dell Technologies → DELL (NYSE).
+    Smartsheet → SMAR (NYSE).
+    Arrow Electronics → ARW (NYSE).
+    Hilton → HLT (NYSE).
+    Unilever → ULVR.L (LSE), UL (NYSE ADR).
+    Stratasys → SSYS (Nasdaq).
+    Cisco → CSCO (Nasdaq).
+    AkzoNobel (Sikkens) → AKZA.AS (Euronext Amsterdam).
+    Google/Chrome (Alphabet Inc.) → GOOGL / GOOG (Nasdaq).
+    Pirelli → PIRC.MI (Borsa Italiana).
+    DP World → DPW.DI (Dubai Financial Market).
+    Salesforce → CRM (NYSE).
+    Dropbox → DBX (Nasdaq).
+    Workday → WDAY (Nasdaq).
+    Ecolab → ECL (NYSE).
+    Udemy → UDMY (Nasdaq).
+    Mastercard → MA (NYSE).
+    Allwyn → ALWN (NYSE, Czech lottery operator).
+    Okta → OKTA (Nasdaq).
+    Goldman Sachs → GS (NYSE).
+    eBay → EBAY (Nasdaq).
+    T-Mobile US → TMUS (Nasdaq). 
+}
