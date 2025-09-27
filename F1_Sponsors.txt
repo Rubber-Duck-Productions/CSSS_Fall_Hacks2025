@@ -40,3 +40,26 @@ Williams
     Komatsu -> Komatsu Ltd. (KMTUY)
     My Protein -> THG Plc (THG.L)
 }
+
+Ferrari
+{
+    hp-> HP Inc (HPQ)
+    shell-> Shell Plc (SHEL)
+    Uni-credit -> UniCredit S.p.A (UCG.MI)
+    Ray-Ban-> EssilorLuxottica SA (ELP.XD)
+    AWS -> Amazon.com, Inc. (AMZN)
+    MAHLE, -> MAHLE Metal Leve S.A. (LEVE3.SA) 
+    Bell,-> BCE Inc. (BCE)
+    SKF, -> AB SKF (SKF-B.ST) 
+     NGK Spark Plugs,-> Niterra Co., Ltd. (5334.T)  
+     Iveco, -> Iveco Group N.V. (IVCGF)
+     ManPower Group, -> Manpower Group Inc. (MAN)
+     Technogym, -> Technogym SpA (TN2.MU)
+     Garrett, -> Garrett Motion Inc. (GTX) 
+     Genesys, -> GENESYS International Corporation Limited (GENESYS.BO)
+     HCL Software -> HCL Infosystems Limited (HCL-INSYS.BO)
+     DXC Technology -> DXC Technology Co (DXC)
+     Peroni -> Molson coors Beverage Co Class B (TAP)
+     Philip Morris International -> Philip Morris International (PM) 
+     Celsius -> Celsius Holdings Inc (CELH)
+}
