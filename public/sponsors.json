@@ -91,22 +91,95 @@
 
     ],
     "Alpine":[
-        
+        {
+            "Sponsor": "Eni",
+            "Price": 15.27,
+            "Code": "ENI.BE"
+        },
+        {
+            "Sponsor": "Mercado Libre",
+            "Price": 2468.42,
+            "Code": "MELI"
+        },
+        {
+            "Sponsor": "Microsoft Corporation",
+            "Price": 511.46,
+            "Code": "MSFT"
+        }
 
     ],
     "Aston":[
+        {
+            "Sponsor": "Cognizant Technology Solutions",
+            "Price": 66.98,
+            "Code": "CTSH"
+        },
+        {
+            "Sponsor": "Xerox Holdings Corp",
+            "Price": 3.750,
+            "Code": "XRX"
+        },
+        {
+            "Sponsor": "Saudi Arabian Oil",
+            "Price": 88.00,
+            "Code": "2222.SR"
+        }
         
 
     ],
     "Haas":[
+        {
+            "Sponsor": "Topgolf Callaway Brands",
+            "Price": 9.47,
+            "Code": "MODG"
+        },
+        {
+            "Sponsor": "MGM Resorts International",
+            "Price": 35.60,
+            "Code": "MGM"
+        },
+        {
+            "Sponsor": "Toyota Motor Corp",
+            "Price": 198.10,
+            "Code": "TM"
+        }
         
 
     ],
     "Sauber":[
-        
+        {
+            "Sponsor": "Meier Tobler Group AG",
+            "Price": 35.95,
+            "Code": "MTG.SW"
+        },
+        {
+            "Sponsor": "Hewlett Packard Enterprise",
+            "Price": 24.00,
+            "Code": "HPE"
+        },
+        {
+            "Sponsor": "Mistubishi Electric",
+            "Price": 3815,
+            "Code": "6503.T"
+        }
 
     ],
     "Racing Bulls":[
+        {
+            "Sponsor": "Randstad",
+            "Price":36.20,
+            "Code": "RAND.AS"
+        },
+        {
+            "Sponsor": "Visa Inc",
+            "Price": 337.37,
+            "Code": "V"
+        },
+        {
+            "Sponsor": "Dynatrace, Inc.",
+            "Price": 49.51,
+            "Code": "DT"
+        }
 
     ]
     
