@@ -1,0 +1,113 @@
+{
+    "Ferrari":[
+        {
+            "Sponsor": "HP Inc",
+            "Price": 26.71,
+            "Code": "HPQ"
+        },
+        {
+            "Sponsor": "Shell Plc",
+            "Price": 2730.00,
+            "Code": "SHEL"
+        },
+        {
+            "Sponsor": "Amazon.com, Inc.",
+            "Price": 219.78,
+            "Code": "AMZN"
+        }
+    ],
+    "Williams":[
+        {
+            "Sponsor": "Atlassian Corporation",
+            "Price": 166.65,
+            "Code": "TEAM"
+        },
+        {
+            "Sponsor": "Energizer Holdings, Inc.",
+            "Price": 25.90,
+            "Code": "ENR"
+        },
+        {
+            "Sponsor": "Super Group",
+            "Price": 13.30,
+            "Code": "SGHC"
+        }
+    ],
+    "McLaren":[
+        {
+            "Sponsor": "Alphabet Inc.",
+            "Price": 247.18,
+            "Code": "GOOG"
+        },
+        {
+            "Sponsor": "Dell Technologies",
+            "Price": 130.76,
+            "Code": "DELL"
+        },
+        {
+            "Sponsor": "Cisco",
+            "Price": 67.22,
+            "Code": "CISCO"
+        }
+        
+
+    ],
+    "Mercedes":[
+        {
+            "Sponsor": "Petronas Gas Berhad",
+            "Price": 18.50,
+            "Code": "6033.KL"
+        },
+        {
+            "Sponsor": "CrowdStrike Holdings, Inc.",
+            "Price": 481.42,
+            "Code": "CRWD"
+        },
+        {
+            "Sponsor": "SAP SE",
+            "Price": 264.08,
+            "Code": "SAP"
+        }
+        
+
+    ],
+    "Redbull":[
+        {
+            "Sponsor": "Oracle Corporation",
+            "Price": 283.46,
+            "Code": "HPQ"
+        },
+        {
+            "Sponsor": "Shell Plc",
+            "Price": 2730.00,
+            "Code": "SHEL"
+        },
+        {
+            "Sponsor": "Amazon.com, Inc.",
+            "Price": 219.78,
+            "Code": "AMZN"
+        }
+        
+
+    ],
+    "Alpine":[
+        
+
+    ],
+    "Aston":[
+        
+
+    ],
+    "Haas":[
+        
+
+    ],
+    "Sauber":[
+        
+
+    ],
+    "Racing Bulls":[
+
+    ]
+    
+}
