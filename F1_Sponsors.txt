@@ -120,3 +120,31 @@ Racing Bulls
     Visa → V (NYSE).
     Dynatrace → DT (NYSE).
 }
+
+Mclaren
+{
+    British American Tobacco (A Better Tomorrow) → BATS.L (LSE), BTI (NYSE ADR).
+    Splunk → Cisco (CSCO)
+    Dell Technologies → DELL (NYSE).
+    Smartsheet → SMAR (NYSE).
+    Arrow Electronics → ARW (NYSE).
+    Hilton → HLT (NYSE).
+    Unilever → ULVR.L (LSE), UL (NYSE ADR).
+    Stratasys → SSYS (Nasdaq).
+    Cisco → CSCO (Nasdaq).
+    AkzoNobel (Sikkens) → AKZA.AS (Euronext Amsterdam).
+    Google/Chrome (Alphabet Inc.) → GOOGL / GOOG (Nasdaq).
+    Pirelli → PIRC.MI (Borsa Italiana).
+    DP World → DPW.DI (Dubai Financial Market).
+    Salesforce → CRM (NYSE).
+    Dropbox → DBX (Nasdaq).
+    Workday → WDAY (Nasdaq).
+    Ecolab → ECL (NYSE).
+    Udemy → UDMY (Nasdaq).
+    Mastercard → MA (NYSE).
+    Allwyn → ALWN (NYSE, Czech lottery operator).
+    Okta → OKTA (Nasdaq).
+    Goldman Sachs → GS (NYSE).
+    eBay → EBAY (Nasdaq).
+    T-Mobile US → TMUS (Nasdaq). 
+}
