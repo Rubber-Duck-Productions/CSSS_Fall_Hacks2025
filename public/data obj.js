@@ -12,7 +12,7 @@ const merc = ['Petronas : Petronas Gas Berhad',
     'WhatsApp : Meta Platforms', 
     'Luminar : Luminar Technologies Inc.'
 ]
-const merccode = [6033-KL,CRWD,TMV,UBS,QCOM,CFR.SW,,HPE ,AMD, MAR,SHW,,SAP-SE,META,LAZR]
+const merccode = [(6033-KL),(CRWD),(TMV),(UBS),(QCOM),(CFR.SW),(HPE) ,(AMD),(MAR),(SHW),(SAP-SE),(META),(LAZR)]
 
 const redbullcode=[ENR,EA,HEINY,LVMUY,V,YETI,T,CDW,XOM,SIE.SG,ZM]
 const redbull=["Armor All -> Energizer Holdings, Inc", "EA Sports -> Electronic Arts Inc.", "Heineken -> Heineken N.V", "TAG Heuer -> LVMH",
@@ -20,7 +20,7 @@ const redbull=["Armor All -> Energizer Holdings, Inc", "EA Sports -> Electronic 
   'Siemens -> Siemens AG','Zoom -> Zoom Communications']
 
 
-const williamscode=[SGHC,TEAM, ENR,0,KMTUY,THG.L]
+const williamscode=[(SGHC),(TEAM), (ENR),(0),(KMTUY),(THG.L)]
 const williams=['Betway-> Super Group','Atlassian-> Atlassian Corporatio','Duracell-> Energizer Holdings,Inc.','Life Fitness -> Life Time Group Holdings '
     ,'Komatsu -> Komatsu Ltd.' , 'My Protein -> THG Plc' ]
 
@@ -63,7 +63,7 @@ const haas =['Travis Mathew -> Topgolf Callaway Brands Corp.',
     'Toyota Gazoo Racing -> Toyota Motor Corp',
     'CommScope -> Commscope Holding Company Inc ',
     'Mphasis -> Mphasis Ltd' ]
-    
+
 const haascodes=[(MODG),(MGM),(7203),(COMM),(MPHASIS)]
 
 const mclarenCodes = [
