@@ -63,3 +63,21 @@ Ferrari
      Philip Morris International -> Philip Morris International (PM) 
      Celsius -> Celsius Holdings Inc (CELH)
 }
+
+Aston Martian
+{
+    Cognizant -> Cognizant Technology Solutions Corp (CTSH)
+    Aramco -> Saudi Arabian Oil Co (2222.SR)
+    SentinelOne -> SentinelOne Inc (S)
+    Citi -> Citigroup Inc (C)
+    NetApp -> NetApp Inc (NTAP)
+    Bombardier -> Bombardier Inc Class B (BBD.B) 
+    Valvoline -> Valvoline Inc (VVV)
+    Regent Sea Cruises -> Norwegian Cruise Line Holdings Ltd. (NCLH)
+    Maaden -> Saudi Arabian Mining Company SJSC (1211)
+    coinbase -> Coinbase Global Inc (COIN)
+    Circle -> Circle Internet Group (CRCL)
+    xerox -> Xerox Holdings Corp (XRX) 
+    arm -> Arm Holding PLC - ADR (ARM)
+    
+}
