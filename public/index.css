@@ -57,3 +57,81 @@ html{
     height: 200px;
 }
 
+.navbar{
+    gap: 15px;
+}
+
+
+
+
+
+
+
+
+.link{
+    align-items: center;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+
+}
+
+
+
+
+.drip{
+background-color: #5b5a77;
+border-radius: 50px;
+color: rgb(1, 0, 0);
+padding: 16px;
+font-size: 16px;
+cursor: pointer;
+background-image: url("water.webp");
+font-family: 'Courier New', Courier, monospace;
+
+
+}
+
+/* Dropdown button on hover & focus */
+.drip:hover, .drip:focus {
+background-color: #134d79;
+
+} 
+
+body > *:not(footer) {
+  flex: 1;
+}
+
+
+/* The container <div> - needed to position the dropdown content */
+.drop {
+position: relative;
+display: inline-block;
+}
+
+/* Dropdown Content (Hidden by Default) */
+.content {
+display: none;
+position: absolute;
+background-color: #f1f1f1;
+min-width: 160px;
+box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+z-index: 1;
+}
+
+/* Links inside the dropdown */
+.content a {
+color: black;
+padding: 12px 16px;
+text-decoration: none;
+display: block;
+}
+
+/* Change color of dropdown links on hover */
+.content a:hover {
+background-color: #ddd;
+}
+
+/* Show the dropdown menu */
+.show {
+display: block;

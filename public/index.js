@@ -3,7 +3,7 @@
 
     window.onscroll = function () {
       const currentScrollPos = window.pageYOffset;
-      const navbar = document.getElementById("navbar");
+      const navbar = document.getElementById("nav");
 
       if (prevScrollPos > currentScrollPos) {
         navbar.style.top = "0";
@@ -16,7 +16,7 @@
 
 
 function toggleDropdown(){
-    document.getElementById("links").classList.toggle("show");
+    document.getElementById("Teams").classList.toggle("show");
 }
 window.onclick = function (event)
 {
