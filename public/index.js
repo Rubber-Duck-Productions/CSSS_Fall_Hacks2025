@@ -33,13 +33,13 @@ window.onclick = function (event)
 
 fetchData();
 
-async function fetchData() {
+async function fetchData(drop) {
 
   try{
     const response = await fetch("https://eodhd.com/api/fundamentals/AAPL.US?api_token=demo&fmt=json");
 
     if(!response.ok){
-      throw new Error("Could not fecth resource");
+      throw new Error("Could not fetch resource");
 
     }
     const data = await response.json();
@@ -55,7 +55,7 @@ async function fetchData() {
     console.log("Exchange:", exchange);
     console.log("Wall Street Target Price:", wallStreetTarget);
 
-    const drop = document.getElementById("drop");
+    const drop = document.getElementById(drop);
     drop.innerHTML = `
       <a href="#">Code: ${code}</a>
       <a href="#">Name: ${name}</a>
