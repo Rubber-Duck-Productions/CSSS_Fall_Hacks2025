@@ -36,9 +36,11 @@ html{
     border-radius: 20px;
     border: 2px solid #222;
     box-sizing: border-box;
+    position: absolute;
 
     padding: 10px 24px;
 }
+
 .Team{
     display: flex;
     flex-direction: row;
@@ -46,12 +48,12 @@ html{
     justify-content: center;
     align-content: center;
     gap: 20px;
-    background-image: linear-gradient(red);
-    height: fit-content;
+    background-image: linear-gradient(rgb(237, 4, 4));
     border-radius: 20px;
     border: 2px solid #222;
     box-sizing: border-box;
     padding: 10px 24px;
+  
 
     width: 45%;
     height: 200px;
@@ -77,8 +79,6 @@ html{
 }
 
 
-
-
 .drip{
 background-color: #5b5a77;
 border-radius: 50px;
@@ -86,7 +86,6 @@ color: rgb(1, 0, 0);
 padding: 16px;
 font-size: 16px;
 cursor: pointer;
-background-image: url("water.webp");
 font-family: 'Courier New', Courier, monospace;
 
 
@@ -101,6 +100,7 @@ background-color: #134d79;
 body > *:not(footer) {
   flex: 1;
 }
+
 
 
 /* The container <div> - needed to position the dropdown content */
@@ -134,4 +134,4 @@ background-color: #ddd;
 
 /* Show the dropdown menu */
 .show {
-display: block;
+display: block;}
