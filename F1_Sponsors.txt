@@ -29,5 +29,14 @@ Redbull{
     Mobil 1 -> Exxon Mobil Corporation (XOM)
     Siemens -> Siemens AG (SIE.SG)
     Zoom -> Zoom Communications (ZM)
+}
 
+Williams
+{
+    Betway-> Super Group (SGHC) 
+    Atlassian-> Atlassian Corporation (TEAM)
+    Duracell-> Energizer Holdings, Inc. (ENR)
+    Life Fitness -> Life Time Group Holdings 
+    Komatsu -> Komatsu Ltd. (KMTUY)
+    My Protein -> THG Plc (THG.L)
 }
