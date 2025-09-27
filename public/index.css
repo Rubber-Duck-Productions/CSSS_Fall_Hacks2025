@@ -24,12 +24,13 @@ html{
 }
 .bodyBar{
     display: flex;
+    background-image: linear-gradient(to top right, black, red);
     flex-direction: row;
     flex-wrap: wrap;
     justify-content: space-between;
     align-items: center;
     gap: 20px;
-    background-color: #21178C;
+    
     width: 100%;
     height: fit-content;
     border-radius: 20px;
