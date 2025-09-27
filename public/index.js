@@ -15,8 +15,8 @@
     };
 
 
-function toggleDropdown(){
-    document.getElementById("Teams").classList.toggle("show");
+function toggleDropdown(id){
+    document.getElementById(id).classList.toggle("show");
 }
 window.onclick = function (event)
 {

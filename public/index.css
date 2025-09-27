@@ -67,7 +67,9 @@ html{
 
 
 
-
+.Team:hover .content {
+  display: block;
+}
 
 
 .link{
@@ -108,6 +110,7 @@ body > *:not(footer) {
 position: relative;
 display: inline-block;
 }
+
 
 /* Dropdown Content (Hidden by Default) */
 .content {
