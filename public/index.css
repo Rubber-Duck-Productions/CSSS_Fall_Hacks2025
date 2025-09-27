@@ -54,7 +54,7 @@ html{
     border: 2px solid #222;
     box-sizing: border-box;
     padding: 10px 24px;
-  
+    position: relative;
 
     width: 45%;
     height: 200px;
@@ -215,7 +215,39 @@ display: block;}
 .fontbody{
     font-family: 'Righteous', cursive !important;
 }
+<<<<<<< HEAD
 
 
 
 
+=======
+.logo-button {
+    
+    border: 2px solid rgba(255, 255, 255, 0.3);
+    background-color: rgba(255, 255, 255, 0.1);
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 10;
+    border-radius: 25px;
+    transition: all 0.3s ease;
+    padding: 2px;
+}
+
+.logo-button img {
+    width: 30px;
+    height: 32px;
+    object-fit: fill;
+}
+
+.logo-button:hover {
+    background-color: rgba(255, 107, 107, 0.2);
+    border-color: #ff6b6b;
+    transform: translateY(-2px);
+}
+
+.logo-button:hover img {
+    transform: scale(1.1);
+}
+>>>>>>> f16c3159ee1d8743bbddfaa81a9a10be2500f527

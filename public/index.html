@@ -15,7 +15,9 @@
 <body>
     <div class="MainBar">
         <div class="logo">
-            <button href="index.html">Home</button>
+            <button href="index.html" class="logo-button">
+                <img src="tires.png" alt="Home" width="32" height="32">
+            </button>
         </div>
         <div class="NavBar">
             <button href="race schedule.html" class="fontbody">Race Schedule</button>
@@ -27,13 +29,18 @@
     <div class="bodyBar">
         <div class="Team" 
            onclick="toggleDropdown('drop')" class ="drip">
-            <div id="drop" class="content"> 
+            <img src="ferrari.png" alt="Ferrari Logo" style="position: absolute; top: 10px; left: 10px; width: 100px; height: 100px; border-radius: 50%; border: 3px solid #fff; object-fit: cover; z-index: 0;">
+            <div id="drop" class="content">
+                <a href="#" class="fontbody">Link 1</a>
+                <a href="#" class="fontbody">Link 2</a>
+                <a href="#" class="fontbody">Link 3</a> 
                
             </div>
         </div>
         <div class="Team"
         onclick="toggleDropdown('drop2')" class ="drip">
-            <div id="drop2" class="content">
+            <img src="download (3).jpeg" alt="Mercedes Logo" style="position: absolute; top: 10px; left: 10px; width: 100px; height: 100px; border-radius: 50%; border: 3px solid #fff; object-fit: cover; z-index: 0;">
+            <div id="drop2" class="content" style = "z-index: 1;">
                 <a href="#" class="fontbody">Link 1</a>
                 <a href="#" class="fontbody">Link 2</a>
                 <a href="#" class="fontbody">Link 3</a> 
@@ -42,9 +49,9 @@
         <div class="Team"
          onclick="toggleDropdown('drop3')" class ="drip">
             <div id="drop3" class="content">
-                <a href="#" class="fontbody">Link 1</a>
-                <a href="#" class="fontbody">Link 2</a>
-                <a href="#" class="fontbody">Link 3</a> 
+                <a href="#">Link 1</a>
+                <a href="#">Link 2</a>
+                <a href="#">Link 3</a> 
             </div>
         </div>
         <div class="Team"
