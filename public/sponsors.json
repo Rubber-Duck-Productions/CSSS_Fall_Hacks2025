@@ -75,17 +75,17 @@
         {
             "Sponsor": "Oracle Corporation",
             "Price": 283.46,
-            "Code": "HPQ"
+            "Code": "ORCL"
         },
         {
-            "Sponsor": "Shell Plc",
-            "Price": 2730.00,
-            "Code": "SHEL"
+            "Sponsor": "Electronic Arts Inc.",
+            "Price": 193.35,
+            "Code": "EA"
         },
         {
-            "Sponsor": "Amazon.com, Inc.",
-            "Price": 219.78,
-            "Code": "AMZN"
+            "Sponsor": "Visa Inc.",
+            "Price": 337.37,
+            "Code": "V"
         }
         
 
