@@ -110,3 +110,13 @@ Alpine {
     Mercado libre -> MercadoLibre Inc (MELI)
     The Venetian Resort -> Las Vegas Sands Corp (LVS)
 }
+
+Racing Bulls
+{
+    Honda → HMC (NYSE ADR) / 7267.T (Tokyo Stock Exchange).
+    Randstad → RAND.AS (Euronext Amsterdam).
+    Pirelli → PIRC.MI (Borsa Italiana, Milan).
+    Siemens → SIE.DE (XETRA, Frankfurt).
+    Visa → V (NYSE).
+    Dynatrace → DT (NYSE).
+}
