@@ -14,3 +14,20 @@ Mercedes
     WhatsApp : Meta Platforms (META)
     Luminar : Luminar Technologies, Inc. (LAZR)
 }
+
+Redbull{
+
+    Armor All -> Energizer Holdings, Inc (ENR)
+    EA Sports -> Electronic Arts Inc. (EA)
+    Heineken -> Heineken N.V (HEINY)
+    TAG Heuer -> LVMH (LVMUY)
+    Visa -> Visa Inc. (V)
+    YETI -> YETI Holdings, Inc. (YETI)
+    AT&T -> AT&T (T)
+    CDW -> CDW Corporation (CDW)
+    Esso -> Exxon Mobil Corporation (XOM)
+    Mobil 1 -> Exxon Mobil Corporation (XOM)
+    Siemens -> Siemens AG (SIE.SG)
+    Zoom -> Zoom Communications (ZM)
+
+}
