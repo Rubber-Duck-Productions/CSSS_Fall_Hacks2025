@@ -14,7 +14,7 @@ const merc = ['Petronas : Petronas Gas Berhad',
 ]
 const merccode = [(6033-KL),(CRWD),(TMV),(UBS),(QCOM),(CFR.SW),(HPE) ,(AMD),(MAR),(SHW),(SAP-SE),(META),(LAZR)]
 
-const redbullcode=[ENR,EA,HEINY,LVMUY,V,YETI,T,CDW,XOM,SIE.SG,ZM]
+const redbullcode=[(ENR),(EA),(HEINY),(LVMUY),(V),(YETI),(T),(CDW),(XOM),(SIE.SG),(ZM)]
 const redbull=["Armor All -> Energizer Holdings, Inc", "EA Sports -> Electronic Arts Inc.", "Heineken -> Heineken N.V", "TAG Heuer -> LVMH",
    "Visa -> Visa Inc."," YETI -> YETI Holdings Inc.",'AT&T -> AT&T','CDW -> CDW Corporation','Esso -> Exxon Mobil Corporation',
   'Siemens -> Siemens AG','Zoom -> Zoom Communications']
