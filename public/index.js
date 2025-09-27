@@ -30,3 +30,25 @@ window.onclick = function (event)
         }
     }
 }
+
+async function fetchData() {
+
+  try{
+    const response = await fetch("https://eodhd.com/api/fundamentals/AAPL.US?api_token=demo&fmt=json")
+
+    if(!response.ok){
+      throw new Error("Could not fecth resource");
+
+    }
+    const data = await response.json();
+    console.log(data);
+
+  }
+
+  catch(error){
+    console.error(error);
+
+  }
+  
+}
+
