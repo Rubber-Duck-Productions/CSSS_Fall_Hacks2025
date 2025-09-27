@@ -8,7 +8,7 @@ html{
     display: flex;
     justify-content: space-between;
     align-items: center;
-
+    background-image: url("tire.webp");
     padding: 1.5rem 2rem;
     background-image: linear-gradient(to top right, black, red);
     border-radius: 9999px;
@@ -20,6 +20,7 @@ html{
     width: 100%;
     box-sizing: border-box;
     margin-bottom: 100px;
+
 
 }
 .bodyBar{
@@ -214,3 +215,7 @@ display: block;}
 .fontbody{
     font-family: 'Righteous', cursive !important;
 }
+
+
+
+

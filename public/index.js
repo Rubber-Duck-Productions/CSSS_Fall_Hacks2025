@@ -78,3 +78,34 @@ window.onload=()=> {
     fetchData('HPQ')
 }
 
+
+
+async function loadTeams() {
+    try {
+        const response = await fetch('sponsors.json');
+        if (!response.ok) throw new Error("Could not fetch JSON file");
+        const data = await response.json();
+
+        const teamNames = Object.keys(data);
+        teamNames.forEach((teamName, index) => {
+            const dropId = `drop${index + 1}`;
+            const drop = document.getElementById(dropId);
+            if (drop && data[teamName].length > 0) {
+                // Populate dropdown links
+                drop.innerHTML = data[teamName].map(sponsor => `
+                    <a href="#" class="fontbody">
+                        ${sponsor.Sponsor} | Code: ${sponsor.Code} | Price: $${sponsor.Price}
+                    </a>
+                `).join('');
+            } else if (drop) {
+                drop.innerHTML = `<a href="#" class="fontbody">No sponsors available</a>`;
+            }
+        });
+
+    } catch (error) {
+        console.error(error);
+    }
+}
+
+// Call on page load
+window.onload = loadTeams;
