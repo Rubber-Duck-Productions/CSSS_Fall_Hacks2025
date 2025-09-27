@@ -31,34 +31,37 @@ window.onclick = function (event)
     }
 }
 
-fetchData();
+fetchData(symbol);
 
-async function fetchData() {
+async function fetchData(symbol) {
 
   try{
-    const response = await fetch("https://eodhd.com/api/fundamentals/AAPL.US?api_token=demo&fmt=json");
-    
+    const response = await fetch("https://eodhd.com/api/fundamentals/${symbol}?api_token=demo&fmt=json");
+
 
     if(!response.ok){
       throw new Error("Could not fetch resource");
 
     }
     const data = await response.json();
+
     console.log(data);
 
-    const code = data.General.Code;
-    const name = data.General.Name;
-    const exchange = data.General.Exchange;
-    const wallStreetTarget = data.Highlights.WallStreetTargetPrice;
+    const code1 = data.General.Code;
+    const name1 = data.General.Name;
+    const exchange1 = data.General.Exchange;
+    const wallStreetTarget1 = data.Highlights.WallStreetTargetPrice;
 
-    console.log("Code:", code);
-    console.log("Name:", name);
-    console.log("Exchange:", exchange);
-    console.log("Wall Street Target Price:", wallStreetTarget);
+
+
+    console.log("Code:", code1);
+    console.log("Name:", name1);
+    console.log("Exchange:", exchange1);
+    console.log("Wall Street Target Price:", wallStreetTarget1);
 
     const drop = document.getElementById('drop');
     drop.innerHTML = `
-      <a href="#"> Name: ${name} Code: ${code}   Exchange: ${exchange}   Price: $${wallStreetTarget}</a>
+      <a href="#"> Name: ${name1} Code: ${code1}   Exchange: ${exchange1}   Price: $${wallStreetTarget1}</a>
     
     `;
 
@@ -69,5 +72,9 @@ async function fetchData() {
 
   }
   
+}
+
+window.onload=()=> {
+    fetchData('HPQ')
 }
 
