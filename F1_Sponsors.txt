@@ -99,17 +99,6 @@ Haas{
     Mphasis -> Mphasis Ltd (MPHASIS)
 }
 
-Alpine {
-    Renault E-Tech -> Renault SA (RNO)
-    Microsoft -> Miscrosoft Corp (MSFT) 
-    Sprinklr -> Sprinklr, Inc. (CXM)
-    Boeing -> Boeing Co (BA)
-    Delphi -> Aptiv Plc (APTV)
-    3D Systems -> 3D Systems Corp (DDD)
-    Eni -> Eni SpA (ENI) 
-    Mercado libre -> MercadoLibre Inc (MELI)
-    The Venetian Resort -> Las Vegas Sands Corp (LVS)
-}
 
 Racing Bulls
 {

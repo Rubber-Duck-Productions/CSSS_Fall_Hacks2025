@@ -22,28 +22,104 @@ const redbull=["Armor All -> Energizer Holdings, Inc", "EA Sports -> Electronic 
 
 const williamscode=[SGHC,TEAM, ENR,0,KMTUY,THG.L]
 const williams=['Betway-> Super Group','Atlassian-> Atlassian Corporatio','Duracell-> Energizer Holdings,Inc.','Life Fitness -> Life Time Group Holdings '
-    , 'Komatsu -> Komatsu Ltd.' , 'My Protein -> THG Plc' ]
+    ,'Komatsu -> Komatsu Ltd.' , 'My Protein -> THG Plc' ]
 
 
-const rbcodes=[]
-const rb=[]
+const rbcodes=[(ADR),(Euronext),
+    (Borsa_Italiana),(XETRA),(V), (DT)]
+const rb=['Honda → HMC','Randstad → RAND.AS ' ,'Pirelli → PIRC.MI','Siemens → SIE.DE','Visa → V','Dynatrace']
 
 const saubercodes= [(6503),(MTG),(SUN),(HPE),(EDELWEISS)]
 const sauber=['Mitsubishi Electric -> Mitsubishi Electric Corp','Walter Meier -> Meier Tobler Group AG',' Sunoco -> Sunoco LP',
     'Hewlett Packard Enterprise-> Hewlett Packard Enterprise Co' ,'Edelweiss -> Edelweiss Financial Services Ltd']
 
-const alpinecodes=[]
-const alpine=[]
+const alpinecodes = [
+  (RNO),
+  (MSFT),
+  (CXM),
+  (BA),
+  (APTV),
+  (DDD),
+  (ENI),
+  (MELI),
+  (LVS)
+]
+
+const alpine = [
+  'Renault E-Tech → Renault SA',
+  'Microsoft → Microsoft Corp',
+  'Sprinklr → Sprinklr Inc.',
+  'Boeing → Boeing Co.',
+  'Delphi → Aptiv Plc',
+  '3D Systems → 3D Systems Corp.',
+  'Eni → Eni SpA',
+  'Mercado Libre → MercadoLibre Inc.',
+  'The Venetian Resort → Las Vegas Sands Corp.'
+]
+
 
 const haas =['Travis Mathew -> Topgolf Callaway Brands Corp.', 
     'MGM Rewards -> MGM Resorts International',
     'Toyota Gazoo Racing -> Toyota Motor Corp',
     'CommScope -> Commscope Holding Company Inc ',
     'Mphasis -> Mphasis Ltd' ]
+    
 const haascodes=[(MODG),(MGM),(7203),(COMM),(MPHASIS)]
 
-const mclaren =[]
-const mclarencode =[]
+const mclarenCodes = [
+  (BATS.L), (BTI),
+  (CSCO),
+  (DELL),
+  (SMAR),
+  (ARW),
+  (HLT),
+  (ULVR.L), (UL),
+  (SSYS),
+  (CSCO),
+  (AKZA.AS),
+  (GOOGL), (GOOG),
+  (PIRC.MI),
+  (DPW.DI),
+  (CRM),
+  (DBX),
+  (WDAY),
+  (ECL),
+  (UDMY),
+  (MA),
+  (ALWN),
+  (OKTA),
+  (GS),
+  (EBAY),
+  (TMUS)
+]
+
+const mclaren = [
+  'British American Tobacco (A Better Tomorrow) → British American Tobacco',
+  'Splunk → Cisco Systems Inc.',
+  'Dell Technologies → Dell Technologies Inc.',
+  'Smartsheet → Smartsheet Inc.',
+  'Arrow Electronics → Arrow Electronics Inc.',
+  'Hilton → Hilton Worldwide Holdings Inc.',
+  'Unilever → Unilever PLC',
+  'Stratasys → Stratasys Ltd.',
+  'Cisco → Cisco Systems Inc.',
+  'AkzoNobel (Sikkens) → Akzo Nobel N.V.',
+  'Google/Chrome (Alphabet Inc.) → Alphabet Inc.',
+  'Pirelli → Pirelli & C. S.p.A.',
+  'DP World → DP World PLC',
+  'Salesforce → Salesforce Inc.',
+  'Dropbox → Dropbox Inc.',
+  'Workday → Workday Inc.',
+  'Ecolab → Ecolab Inc.',
+  'Udemy → Udemy Inc.',
+  'Mastercard → Mastercard Inc.',
+  'Allwyn → Allwyn International',
+  'Okta → Okta Inc.',
+  'Goldman Sachs → Goldman Sachs Group Inc.',
+  'eBay → eBay Inc.',
+  'T-Mobile US → T-Mobile US Inc.'
+]
+
 
 const astoncodes =[(CTSH),(2222-SR),(S),(C),(NTAP),(BBD.B),(VVV), (NCLH),(1211),(COIN),(CRCL),(XRX),(ARM)]
 const aston =['Cognizant -> Cognizant Technology Solutions Corp', 
