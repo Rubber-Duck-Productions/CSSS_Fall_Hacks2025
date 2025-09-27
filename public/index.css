@@ -53,7 +53,7 @@ html{
     border: 2px solid #222;
     box-sizing: border-box;
     padding: 10px 24px;
-  
+    position: relative;
 
     width: 45%;
     height: 200px;
