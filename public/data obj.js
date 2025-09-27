@@ -31,9 +31,6 @@ const rb=[]
 const saubercodes= []
 const sauber=[]
 
-const ferraricodes=[]
-const ferrari=[]
-
 const alpinecodes=[]
 const alpine=[]
 
@@ -43,7 +40,64 @@ const haas=[]
 const mclaren =[]
 const mclarencode =[]
 
-const astoncodes =[]
-const aston =[]
+const astoncodes =[(CTSH),(2222-SR),(S),(C),(NTAP),(BBD.B),(VVV), (NCLH),(1211),(COIN),(CRCL),(XRX),(ARM)]
+const aston =['Cognizant -> Cognizant Technology Solutions Corp', 
+   ' Aramco -> Saudi Arabian Oil Co ',
+    'SentinelOne -> SentinelOne Inc ',
+    'Citi -> Citigroup Inc',
+    'NetApp -> NetApp Inc ',
+    'Bombardier -> Bombardier Inc Class B' ,
+    'Valvoline -> Valvoline Inc',
+   'Regent Sea Cruises -> Norwegian Cruise Line Holdings Ltd.',
+    'Maaden -> Saudi Arabian Mining Company SJSC',
+    'coinbase -> Coinbase Global Inc ',
+    'Circle -> Circle Internet Group' ,
+    'xerox -> Xerox Holdings Corp ',
+    'arm -> Arm Holding PLC - ADR' 
+    ]
 
+
+const ferrscodes = [
+  (HPQ),
+  (SHEL),
+  (UCG.MI),
+  (EL.PA),
+  (AMZN),
+  (LEVE3.SA),
+  (BCE),
+  (SKF-B.ST),
+  (5334-T),
+  (IVG.MI),
+  (MAN),
+  (TGYM.MI),
+  (GTX),
+  (GENESYS.BO),
+  (HCLTECH.NS),
+  (DXC),
+  (TAP),
+  (PM),
+  (CELH)
+]
+
+const ferrs = [
+  'HP -> HP Inc',
+  'Shell -> Shell Plc',
+  'UniCredit -> UniCredit S.p.A',
+  'Ray-Ban -> EssilorLuxottica SA',
+  'AWS -> Amazon.com, Inc.',
+  'MAHLE -> MAHLE Metal Leve S.A.',
+  'Bell -> BCE Inc.',
+  'SKF -> AB SKF',
+  'NGK Spark Plugs -> Niterra Co., Ltd.',
+  'Iveco -> Iveco Group N.V.',
+  'Manpower Group -> ManpowerGroup Inc.',
+  'Technogym -> Technogym SpA',
+  'Garrett -> Garrett Motion Inc.',
+  'Genesys -> Genesys International Corporation Ltd',
+  'HCL Software -> HCL Technologies Ltd',
+  'DXC Technology -> DXC Technology Co.',
+  'Peroni -> Molson Coors Beverage Co. Class B',
+  'Philip Morris International -> Philip Morris International Inc.',
+  'Celsius -> Celsius Holdings Inc.'
+]
 
