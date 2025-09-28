@@ -330,3 +330,6 @@ display: block;}
     margin: 0;
     text-align: center;
 }
+.fontstock{
+    font-family: 'Inter', sans-serif !important;
+}
