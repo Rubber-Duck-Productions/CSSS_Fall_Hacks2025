@@ -48,6 +48,7 @@ html{
     justify-content: center;
     align-content: center;
     gap: 20px;
+    background-image: linear-gradient(to top right,black 30%, red);
     border-radius: 20px;
     border: 2px solid #222;
     box-sizing: border-box;
@@ -344,16 +345,16 @@ display: block;}
     text-align: center;
 }
 
-.Team.team1 { background-image: linear-gradient(to the right,black,red);}
-.Team.team2 { background-image: linear-gradient(to the right,rgb(124, 221, 236)cyan); }
-.Team.team3 { background-image: linear-gradient(to the right,rgb(255, 150, 63),rgb(237, 109, 4)); }
-.Team.team4 { background-image: linear-gradient(to the right,rgb(3, 39, 170),rgb(3, 12, 44)); }
-.Team.team5 { background-image: linear-gradient(to the right,rgb(109, 223, 241),rgb(4, 206, 237)); }
-.Team.team6 { background-image: linear-gradient(to the right,rgb(39, 89, 35),rgb(3, 51, 0)); }
-.Team.team7 { background-image: linear-gradient(to the right,grey,rgb(237, 35, 35)); }
-.Team.team8 { background-image: linear-gradient(to the right,rgb(12, 237, 4),rgb(4, 121, 0)); }
-.Team.team9 { background-image: linear-gradient(to the right,rgb(99, 59, 242),rgb(54, 4, 237)); }
-.Team.team10 { background-image: linear-gradient(to the right,rgb(145, 214, 244),rgb(4, 167, 237)); }
+
+.Team.team2 { background-image: linear-gradient(rgb(52, 255, 225)); }
+.Team.team3 { background-image: linear-gradient(rgb(237, 109, 4)); }
+.Team.team4 { background-image: linear-gradient(rgb(3, 12, 44)); }
+.Team.team5 { background-image: linear-gradient(rgb(4, 206, 237)); }
+.Team.team6 { background-image: linear-gradient(rgb(3, 51, 0)); }
+.Team.team7 { background-image: linear-gradient(rgb(237, 35, 35)); }
+.Team.team8 { background-image: linear-gradient(rgb(12, 237, 4)); }
+.Team.team9 { background-image: linear-gradient(rgb(54, 4, 237)); }
+.Team.team10 { background-image: linear-gradient(rgb(4, 167, 237)); }
 .fontstock{
     font-family: 'Inter', sans-serif !important;
 }
