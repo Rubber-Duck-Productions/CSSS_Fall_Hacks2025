@@ -48,7 +48,7 @@ html{
     justify-content: center;
     align-content: center;
     gap: 20px;
-    background-image: linear-gradient(rgb(237, 4, 4));
+    background-image: linear-gradient(to top right,black 30%, red);
     border-radius: 20px;
     border: 2px solid #222;
     box-sizing: border-box;
