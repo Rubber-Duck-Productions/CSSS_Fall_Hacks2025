@@ -18,7 +18,7 @@ html{
 
     width: 100%;
     box-sizing: border-box;
-    margin-bottom: 100px;
+    margin-bottom: 30px;
 
 
 }
@@ -199,6 +199,7 @@ color: black;
 padding: 12px 16px;
 text-decoration: none;
 display: block;
+font-family: 'Inter', sans-serif !important;
 }
 
 /* Change color of dropdown links on hover */
