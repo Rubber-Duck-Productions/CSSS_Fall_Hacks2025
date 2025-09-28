@@ -197,7 +197,7 @@ display: inline-block;
     justify-content: center;
     align-content: center;
     gap: 20px;
-    background-image: linear-gradient(to top right rgb(189, 187, 187));
+    background-image: linear-gradient(red);
     border-radius: 20px;
     border: 2px solid #222;
     box-sizing: border-box;
