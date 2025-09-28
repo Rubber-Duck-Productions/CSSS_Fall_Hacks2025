@@ -1,5 +1,5 @@
 {
-    "Ferrari":[
+    "Ferrari": [
         {
             "Sponsor": "HP Inc",
             "Price": 26.71,
@@ -14,45 +14,89 @@
             "Sponsor": "Amazon.com, Inc.",
             "Price": 219.78,
             "Code": "AMZN"
+        },
+        {
+            "Sponsor": "UniCredit S.p.A",
+            "Price": 15.20,
+            "Code": "UCG.MI"
+        },
+        {
+            "Sponsor": "Ray-Ban (EssilorLuxottica)",
+            "Price": 45.30,
+            "Code": "EL.PA"
+        },
+        {
+            "Sponsor": "MAHLE Metal Leve S.A.",
+            "Price": 8.50,
+            "Code": "LEVE3.SA"
+        },
+        {
+            "Sponsor": "Bell (BCE Inc.)",
+            "Price": 32.15,
+            "Code": "BCE"
+        },
+        {
+            "Sponsor": "SKF",
+            "Price": 18.75,
+            "Code": "SKF-B.ST"
+        },
+        {
+            "Sponsor": "NGK Spark Plugs",
+            "Price": 12.40,
+            "Code": "5334.T"
+        },
+        {
+            "Sponsor": "Iveco Group N.V.",
+            "Price": 6.80,
+            "Code": "IVG.MI"
+        },
+        {
+            "Sponsor": "ManpowerGroup Inc.",
+            "Price": 78.90,
+            "Code": "MAN"
+        },
+        {
+            "Sponsor": "Technogym SpA",
+            "Price": 22.60,
+            "Code": "TGYM.MI"
+        },
+        {
+            "Sponsor": "Garrett Motion Inc.",
+            "Price": 4.25,
+            "Code": "GTX"
+        },
+        {
+            "Sponsor": "Genesys International",
+            "Price": 15.80,
+            "Code": "GENESYS.BO"
+        },
+        {
+            "Sponsor": "HCL Technologies Ltd",
+            "Price": 125.50,
+            "Code": "HCLTECH.NS"
+        },
+        {
+            "Sponsor": "DXC Technology Co.",
+            "Price": 18.30,
+            "Code": "DXC"
+        },
+        {
+            "Sponsor": "Peroni (Molson Coors)",
+            "Price": 52.40,
+            "Code": "TAP"
+        },
+        {
+            "Sponsor": "Philip Morris International",
+            "Price": 95.20,
+            "Code": "PM"
+        },
+        {
+            "Sponsor": "Celsius Holdings Inc.",
+            "Price": 45.60,
+            "Code": "CELH"
         }
     ],
-    "Williams":[
-        {
-            "Sponsor": "Atlassian Corporation",
-            "Price": 166.65,
-            "Code": "TEAM"
-        },
-        {
-            "Sponsor": "Energizer Holdings, Inc.",
-            "Price": 25.90,
-            "Code": "ENR"
-        },
-        {
-            "Sponsor": "Super Group",
-            "Price": 13.30,
-            "Code": "SGHC"
-        }
-    ],
-    "McLaren":[
-        {
-            "Sponsor": "Alphabet Inc.",
-            "Price": 247.18,
-            "Code": "GOOG"
-        },
-        {
-            "Sponsor": "Dell Technologies",
-            "Price": 130.76,
-            "Code": "DELL"
-        },
-        {
-            "Sponsor": "Cisco",
-            "Price": 67.22,
-            "Code": "CISCO"
-        }
-        
-
-    ],
-    "Mercedes":[
+    "Mercedes": [
         {
             "Sponsor": "Petronas Gas Berhad",
             "Price": 18.50,
@@ -67,11 +111,176 @@
             "Sponsor": "SAP SE",
             "Price": 264.08,
             "Code": "SAP"
+        },
+        {
+            "Sponsor": "TeamViewer SE",
+            "Price": 12.30,
+            "Code": "TMV"
+        },
+        {
+            "Sponsor": "UBS Group AG",
+            "Price": 28.75,
+            "Code": "UBS"
+        },
+        {
+            "Sponsor": "QUALCOMM Incorporated",
+            "Price": 145.60,
+            "Code": "QCOM"
+        },
+        {
+            "Sponsor": "Compagnie Financiere Richemont",
+            "Price": 125.40,
+            "Code": "CFR.SW"
+        },
+        {
+            "Sponsor": "Hewlett Packard Enterprise",
+            "Price": 24.00,
+            "Code": "HPE"
+        },
+        {
+            "Sponsor": "Advanced Micro Devices",
+            "Price": 98.30,
+            "Code": "AMD"
+        },
+        {
+            "Sponsor": "Marriott International, Inc",
+            "Price": 185.20,
+            "Code": "MAR"
+        },
+        {
+            "Sponsor": "The Sherwin-Williams Company",
+            "Price": 285.40,
+            "Code": "SHW"
+        },
+        {
+            "Sponsor": "Meta Platforms",
+            "Price": 325.80,
+            "Code": "META"
+        },
+        {
+            "Sponsor": "Luminar Technologies Inc.",
+            "Price": 2.15,
+            "Code": "LAZR"
         }
-        
-
     ],
-    "Redbull":[
+    "McLaren": [
+        {
+            "Sponsor": "Alphabet Inc.",
+            "Price": 247.18,
+            "Code": "GOOG"
+        },
+        {
+            "Sponsor": "Dell Technologies",
+            "Price": 130.76,
+            "Code": "DELL"
+        },
+        {
+            "Sponsor": "Cisco Systems Inc.",
+            "Price": 67.22,
+            "Code": "CSCO"
+        },
+        {
+            "Sponsor": "British American Tobacco",
+            "Price": 28.50,
+            "Code": "BATS.L"
+        },
+        {
+            "Sponsor": "Smartsheet Inc.",
+            "Price": 45.20,
+            "Code": "SMAR"
+        },
+        {
+            "Sponsor": "Arrow Electronics Inc.",
+            "Price": 125.80,
+            "Code": "ARW"
+        },
+        {
+            "Sponsor": "Hilton Worldwide Holdings Inc.",
+            "Price": 185.40,
+            "Code": "HLT"
+        },
+        {
+            "Sponsor": "Unilever PLC",
+            "Price": 45.60,
+            "Code": "ULVR.L"
+        },
+        {
+            "Sponsor": "Stratasys Ltd.",
+            "Price": 12.30,
+            "Code": "SSYS"
+        },
+        {
+            "Sponsor": "Akzo Nobel N.V.",
+            "Price": 65.40,
+            "Code": "AKZA.AS"
+        },
+        {
+            "Sponsor": "Pirelli & C. S.p.A.",
+            "Price": 4.85,
+            "Code": "PIRC.MI"
+        },
+        {
+            "Sponsor": "DP World PLC",
+            "Price": 28.90,
+            "Code": "DPW.DI"
+        },
+        {
+            "Sponsor": "Salesforce Inc.",
+            "Price": 185.60,
+            "Code": "CRM"
+        },
+        {
+            "Sponsor": "Dropbox Inc.",
+            "Price": 22.40,
+            "Code": "DBX"
+        },
+        {
+            "Sponsor": "Workday Inc.",
+            "Price": 245.80,
+            "Code": "WDAY"
+        },
+        {
+            "Sponsor": "Ecolab Inc.",
+            "Price": 185.20,
+            "Code": "ECL"
+        },
+        {
+            "Sponsor": "Udemy Inc.",
+            "Price": 8.50,
+            "Code": "UDMY"
+        },
+        {
+            "Sponsor": "Mastercard Inc.",
+            "Price": 425.60,
+            "Code": "MA"
+        },
+        {
+            "Sponsor": "Allwyn International",
+            "Price": 15.40,
+            "Code": "ALWN"
+        },
+        {
+            "Sponsor": "Okta Inc.",
+            "Price": 85.20,
+            "Code": "OKTA"
+        },
+        {
+            "Sponsor": "Goldman Sachs Group Inc.",
+            "Price": 385.40,
+            "Code": "GS"
+        },
+        {
+            "Sponsor": "eBay Inc.",
+            "Price": 45.80,
+            "Code": "EBAY"
+        },
+        {
+            "Sponsor": "T-Mobile US Inc.",
+            "Price": 165.20,
+            "Code": "TMUS"
+        }
+    ],
+    "Red Bull": [
         {
             "Sponsor": "Oracle Corporation",
             "Price": 283.46,
@@ -86,18 +295,61 @@
             "Sponsor": "Visa Inc.",
             "Price": 337.37,
             "Code": "V"
-        }
-        
-
-    ],
-    "Alpine":[
+        },
         {
-            "Sponsor": "Eni",
+            "Sponsor": "Energizer Holdings, Inc.",
+            "Price": 25.90,
+            "Code": "ENR"
+        },
+        {
+            "Sponsor": "Heineken N.V",
+            "Price": 45.60,
+            "Code": "HEINY"
+        },
+        {
+            "Sponsor": "LVMH",
+            "Price": 785.40,
+            "Code": "LVMUY"
+        },
+        {
+            "Sponsor": "YETI Holdings Inc.",
+            "Price": 45.20,
+            "Code": "YETI"
+        },
+        {
+            "Sponsor": "AT&T",
+            "Price": 18.50,
+            "Code": "T"
+        },
+        {
+            "Sponsor": "CDW Corporation",
+            "Price": 185.60,
+            "Code": "CDW"
+        },
+        {
+            "Sponsor": "Exxon Mobil Corporation",
+            "Price": 115.40,
+            "Code": "XOM"
+        },
+        {
+            "Sponsor": "Siemens AG",
+            "Price": 145.80,
+            "Code": "SIE.SG"
+        },
+        {
+            "Sponsor": "Zoom Communications",
+            "Price": 65.20,
+            "Code": "ZM"
+        }
+    ],
+    "Alpine": [
+        {
+            "Sponsor": "Eni SpA",
             "Price": 15.27,
             "Code": "ENI.BE"
         },
         {
-            "Sponsor": "Mercado Libre",
+            "Sponsor": "MercadoLibre Inc.",
             "Price": 2468.42,
             "Code": "MELI"
         },
@@ -105,10 +357,39 @@
             "Sponsor": "Microsoft Corporation",
             "Price": 511.46,
             "Code": "MSFT"
+        },
+        {
+            "Sponsor": "Renault SA",
+            "Price": 35.40,
+            "Code": "RNO"
+        },
+        {
+            "Sponsor": "Sprinklr Inc.",
+            "Price": 8.50,
+            "Code": "CXM"
+        },
+        {
+            "Sponsor": "Boeing Co.",
+            "Price": 185.60,
+            "Code": "BA"
+        },
+        {
+            "Sponsor": "Aptiv Plc",
+            "Price": 75.20,
+            "Code": "APTV"
+        },
+        {
+            "Sponsor": "3D Systems Corp.",
+            "Price": 4.85,
+            "Code": "DDD"
+        },
+        {
+            "Sponsor": "Las Vegas Sands Corp.",
+            "Price": 45.60,
+            "Code": "LVS"
         }
-
     ],
-    "Aston":[
+    "Aston Martin": [
         {
             "Sponsor": "Cognizant Technology Solutions",
             "Price": 66.98,
@@ -116,18 +397,66 @@
         },
         {
             "Sponsor": "Xerox Holdings Corp",
-            "Price": 3.750,
+            "Price": 3.75,
             "Code": "XRX"
         },
         {
             "Sponsor": "Saudi Arabian Oil",
             "Price": 88.00,
             "Code": "2222.SR"
+        },
+        {
+            "Sponsor": "SentinelOne Inc",
+            "Price": 18.50,
+            "Code": "S"
+        },
+        {
+            "Sponsor": "Citigroup Inc",
+            "Price": 55.40,
+            "Code": "C"
+        },
+        {
+            "Sponsor": "NetApp Inc",
+            "Price": 85.20,
+            "Code": "NTAP"
+        },
+        {
+            "Sponsor": "Bombardier Inc Class B",
+            "Price": 45.60,
+            "Code": "BBD.B"
+        },
+        {
+            "Sponsor": "Valvoline Inc",
+            "Price": 35.80,
+            "Code": "VVV"
+        },
+        {
+            "Sponsor": "Norwegian Cruise Line Holdings",
+            "Price": 18.50,
+            "Code": "NCLH"
+        },
+        {
+            "Sponsor": "Saudi Arabian Mining Company",
+            "Price": 125.40,
+            "Code": "1211"
+        },
+        {
+            "Sponsor": "Coinbase Global Inc",
+            "Price": 185.60,
+            "Code": "COIN"
+        },
+        {
+            "Sponsor": "Circle Internet Group",
+            "Price": 0.95,
+            "Code": "CRCL"
+        },
+        {
+            "Sponsor": "Arm Holding PLC - ADR",
+            "Price": 65.20,
+            "Code": "ARM"
         }
-        
-
     ],
-    "Haas":[
+    "Haas": [
         {
             "Sponsor": "Topgolf Callaway Brands",
             "Price": 9.47,
@@ -142,11 +471,19 @@
             "Sponsor": "Toyota Motor Corp",
             "Price": 198.10,
             "Code": "TM"
+        },
+        {
+            "Sponsor": "Commscope Holding Company",
+            "Price": 2.15,
+            "Code": "COMM"
+        },
+        {
+            "Sponsor": "Mphasis Ltd",
+            "Price": 45.60,
+            "Code": "MPHASIS"
         }
-        
-
     ],
-    "Sauber":[
+    "Sauber": [
         {
             "Sponsor": "Meier Tobler Group AG",
             "Price": 35.95,
@@ -158,16 +495,25 @@
             "Code": "HPE"
         },
         {
-            "Sponsor": "Mistubishi Electric",
+            "Sponsor": "Mitsubishi Electric",
             "Price": 3815,
             "Code": "6503.T"
+        },
+        {
+            "Sponsor": "Sunoco LP",
+            "Price": 45.20,
+            "Code": "SUN"
+        },
+        {
+            "Sponsor": "Edelweiss Financial Services",
+            "Price": 125.40,
+            "Code": "EDELWEISS"
         }
-
     ],
-    "Racing Bulls":[
+    "Racing Bulls": [
         {
             "Sponsor": "Randstad",
-            "Price":36.20,
+            "Price": 36.20,
             "Code": "RAND.AS"
         },
         {
@@ -179,8 +525,53 @@
             "Sponsor": "Dynatrace, Inc.",
             "Price": 49.51,
             "Code": "DT"
+        },
+        {
+            "Sponsor": "Honda Motor Co.",
+            "Price": 28.50,
+            "Code": "HMC"
+        },
+        {
+            "Sponsor": "Pirelli & C. S.p.A.",
+            "Price": 4.85,
+            "Code": "PIRC.MI"
+        },
+        {
+            "Sponsor": "Siemens AG",
+            "Price": 145.80,
+            "Code": "SIE.DE"
         }
-
+    ],
+    "Williams": [
+        {
+            "Sponsor": "Atlassian Corporation",
+            "Price": 166.65,
+            "Code": "TEAM"
+        },
+        {
+            "Sponsor": "Energizer Holdings, Inc.",
+            "Price": 25.90,
+            "Code": "ENR"
+        },
+        {
+            "Sponsor": "Super Group",
+            "Price": 13.30,
+            "Code": "SGHC"
+        },
+        {
+            "Sponsor": "Life Time Group Holdings",
+            "Price": 0,
+            "Code": "0"
+        },
+        {
+            "Sponsor": "Komatsu Ltd.",
+            "Price": 28.50,
+            "Code": "KMTUY"
+        },
+        {
+            "Sponsor": "THG Plc",
+            "Price": 0.85,
+            "Code": "THG.L"
+        }
     ]
-    
 }

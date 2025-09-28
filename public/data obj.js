@@ -12,7 +12,7 @@ const merc = ['Petronas : Petronas Gas Berhad',
     'WhatsApp : Meta Platforms', 
     'Luminar : Luminar Technologies Inc.'
 ]
-const merccode = [(6033-KL),(CRWD),(TMV),(UBS),(QCOM),(CFR.SW),(HPE) ,(AMD),(MAR),(SHW),(SAP-SE),(META),(LAZR)]
+const merccode = ["6033.KL", "CRWD", "TMV", "UBS", "QCOM", "CFR.SW", "HPE", "AMD", "MAR", "SHW", "SAP", "META", "LAZR"]
 
 const redbullcode=[(ENR),(EA),(HEINY),(LVMUY),(V),(YETI),(T),(CDW),(XOM),(SIE.SG),(ZM)]
 const redbull=["Armor All -> Energizer Holdings, Inc", "EA Sports -> Electronic Arts Inc.", "Heineken -> Heineken N.V", "TAG Heuer -> LVMH",
