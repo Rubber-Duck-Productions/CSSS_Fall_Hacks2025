@@ -14,35 +14,34 @@ const merc = ['Petronas : Petronas Gas Berhad',
 ]
 const merccode = ["6033.KL", "CRWD", "TMV", "UBS", "QCOM", "CFR.SW", "HPE", "AMD", "MAR", "SHW", "SAP", "META", "LAZR"]
 
-const redbullcode=[(ENR),(EA),(HEINY),(LVMUY),(V),(YETI),(T),(CDW),(XOM),(SIE.SG),(ZM)]
+const redbullcode = ["ENR", "EA", "HEINY", "LVMUY", "V", "YETI", "T", "CDW", "XOM", "SIE.SG", "ZM"]
 const redbull=["Armor All -> Energizer Holdings, Inc", "EA Sports -> Electronic Arts Inc.", "Heineken -> Heineken N.V", "TAG Heuer -> LVMH",
    "Visa -> Visa Inc."," YETI -> YETI Holdings Inc.",'AT&T -> AT&T','CDW -> CDW Corporation','Esso -> Exxon Mobil Corporation',
   'Siemens -> Siemens AG','Zoom -> Zoom Communications']
 
 
-const williamscode=[(SGHC),(TEAM), (ENR),(0),(KMTUY),(THG.L)]
+const williamscode = ["SGHC", "TEAM", "ENR", "0", "KMTUY", "THG.L"]
 const williams=['Betway-> Super Group','Atlassian-> Atlassian Corporatio','Duracell-> Energizer Holdings,Inc.','Life Fitness -> Life Time Group Holdings '
     ,'Komatsu -> Komatsu Ltd.' , 'My Protein -> THG Plc' ]
 
 
-const rbcodes=[(ADR),(Euronext),
-    (Borsa_Italiana),(XETRA),(V), (DT)]
+const rbcodes = ["ADR", "Euronext", "Borsa_Italiana", "XETRA", "V", "DT"]
 const rb=['Honda → HMC','Randstad → RAND.AS ' ,'Pirelli → PIRC.MI','Siemens → SIE.DE','Visa → V','Dynatrace']
 
-const saubercodes= [(6503),(MTG),(SUN),(HPE),(EDELWEISS)]
+const saubercodes = ["6503", "MTG", "SUN", "HPE", "EDELWEISS"]
 const sauber=['Mitsubishi Electric -> Mitsubishi Electric Corp','Walter Meier -> Meier Tobler Group AG',' Sunoco -> Sunoco LP',
     'Hewlett Packard Enterprise-> Hewlett Packard Enterprise Co' ,'Edelweiss -> Edelweiss Financial Services Ltd']
 
 const alpinecodes = [
-  (RNO),
-  (MSFT),
-  (CXM),
-  (BA),
-  (APTV),
-  (DDD),
-  (ENI),
-  (MELI),
-  (LVS)
+  "RNO",
+  "MSFT",
+  "CXM",
+  "BA",
+  "APTV",
+  "DDD",
+  "ENI",
+  "MELI",
+  "LVS"
 ]
 
 const alpine = [
@@ -64,33 +63,33 @@ const haas =['Travis Mathew -> Topgolf Callaway Brands Corp.',
     'CommScope -> Commscope Holding Company Inc ',
     'Mphasis -> Mphasis Ltd' ]
 
-const haascodes=[(MODG),(MGM),(7203),(COMM),(MPHASIS)]
+const haascodes = ["MODG", "MGM", "7203", "COMM", "MPHASIS"]
 
 const mclarenCodes = [
-  (BATS.L), (BTI),
-  (CSCO),
-  (DELL),
-  (SMAR),
-  (ARW),
-  (HLT),
-  (ULVR.L), (UL),
-  (SSYS),
-  (CSCO),
-  (AKZA.AS),
-  (GOOGL), (GOOG),
-  (PIRC.MI),
-  (DPW.DI),
-  (CRM),
-  (DBX),
-  (WDAY),
-  (ECL),
-  (UDMY),
-  (MA),
-  (ALWN),
-  (OKTA),
-  (GS),
-  (EBAY),
-  (TMUS)
+  "BATS.L", "BTI",
+  "CSCO",
+  "DELL",
+  "SMAR",
+  "ARW",
+  "HLT",
+  "ULVR.L", "UL",
+  "SSYS",
+  "CSCO",
+  "AKZA.AS",
+  "GOOGL", "GOOG",
+  "PIRC.MI",
+  "DPW.DI",
+  "CRM",
+  "DBX",
+  "WDAY",
+  "ECL",
+  "UDMY",
+  "MA",
+  "ALWN",
+  "OKTA",
+  "GS",
+  "EBAY",
+  "TMUS"
 ]
 
 const mclaren = [
@@ -121,7 +120,7 @@ const mclaren = [
 ]
 
 
-const astoncodes =[(CTSH),(2222-SR),(S),(C),(NTAP),(BBD.B),(VVV), (NCLH),(1211),(COIN),(CRCL),(XRX),(ARM)]
+const astoncodes = ["CTSH", "2222.SR", "S", "C", "NTAP", "BBD.B", "VVV", "NCLH", "1211", "COIN", "CRCL", "XRX", "ARM"]
 const aston =['Cognizant -> Cognizant Technology Solutions Corp', 
    ' Aramco -> Saudi Arabian Oil Co ',
     'SentinelOne -> SentinelOne Inc ',
@@ -139,25 +138,25 @@ const aston =['Cognizant -> Cognizant Technology Solutions Corp',
 
 
 const ferrscodes = [
-  (HPQ),
-  (SHEL),
-  (UCG.MI),
-  (EL.PA),
-  (AMZN),
-  (LEVE3.SA),
-  (BCE),
-  (SKF-B.ST),
-  (5334-T),
-  (IVG.MI),
-  (MAN),
-  (TGYM.MI),
-  (GTX),
-  (GENESYS.BO),
-  (HCLTECH.NS),
-  (DXC),
-  (TAP),
-  (PM),
-  (CELH)
+  "HPQ",
+  "SHEL",
+  "UCG.MI",
+  "EL.PA",
+  "AMZN",
+  "LEVE3.SA",
+  "BCE",
+  "SKF-B.ST",
+  "5334.T",
+  "IVG.MI",
+  "MAN",
+  "TGYM.MI",
+  "GTX",
+  "GENESYS.BO",
+  "HCLTECH.NS",
+  "DXC",
+  "TAP",
+  "PM",
+  "CELH"
 ]
 
 const ferrs = [
